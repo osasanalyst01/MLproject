@@ -3,3 +3,6 @@ Name: mlproject
 Version: 0.0.1
 Author: Osasanalyst01
 Author-email: osasereokunloye@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
