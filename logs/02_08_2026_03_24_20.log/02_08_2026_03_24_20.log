@@ -1,0 +1,6 @@
+[ 2026-02-08 03:24:20,900 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2026-02-08 03:24:20,906 ] 97 werkzeug - INFO -  * Debugger PIN: 146-070-504
+[ 2026-02-08 03:30:24,175 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\Downloads\\MLproject\\app.py', reloading
+[ 2026-02-08 03:30:24,176 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\Downloads\\MLproject\\app.py', reloading
+[ 2026-02-08 03:30:24,177 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\Downloads\\MLproject\\app.py', reloading
+[ 2026-02-08 03:30:24,179 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\Downloads\\MLproject\\app.py', reloading

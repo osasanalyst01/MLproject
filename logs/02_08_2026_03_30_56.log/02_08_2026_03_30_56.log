@@ -1,0 +1,8 @@
+[ 2026-02-08 03:30:57,608 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2026-02-08 03:30:57,615 ] 97 werkzeug - INFO -  * Debugger PIN: 146-070-504
+[ 2026-02-08 03:34:40,499 ] 97 werkzeug - INFO -  * Detected change in 'c:\\users\\hp\\downloads\\mlproject\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2026-02-08 03:34:40,502 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\Downloads\\MLproject\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2026-02-08 03:34:40,504 ] 97 werkzeug - INFO -  * Detected change in 'c:\\users\\hp\\downloads\\mlproject\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2026-02-08 03:34:40,505 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\Downloads\\MLproject\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2026-02-08 03:34:40,506 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\HP\\Downloads\\MLproject\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2026-02-08 03:34:40,507 ] 97 werkzeug - INFO -  * Detected change in 'c:\\users\\hp\\downloads\\mlproject\\src\\pipeline\\predict_pipeline.py', reloading
